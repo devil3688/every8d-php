@@ -15,7 +15,7 @@
   },
   "require": {
     "php": ">=7.0",
-    "guzzlehttp/guzzle": "^6.3"
+    "guzzlehttp/guzzle": "^7.0.1"
   },
   "require-dev": {
     "codacy/coverage": "^1.4",
